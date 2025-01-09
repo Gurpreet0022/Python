@@ -1,6 +1,6 @@
-# basicpythonproj
+# Python
 
-Welcome to the **basicpythonproj** repository! This repository contains a collection of simple Python projects that demonstrate fundamental programming concepts. These projects are designed to help beginners understand various aspects of Python, including loops, strings, mathematical operations, and more.
+Welcome to the **Python** repository! This repository contains a collection of simple Python projects that demonstrate fundamental programming concepts. These projects are designed to help beginners understand various aspects of Python, including loops, strings, mathematical operations, and more.
 
 ## Projects
 
